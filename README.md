@@ -6,4 +6,4 @@
 - ...
 
 ### base repo
-[base](https://github.com/RobotIGS/FTC11515_Base) repo for every season with [javadoc](https://robotigs.github.io/FTC11515_Base/javadoc/).
+[base](https://github.com/RobotIGS/FTC11515_Base)
