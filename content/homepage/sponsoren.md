@@ -6,9 +6,9 @@ weight: 50
 header_menu: true
 ---
 
-Ohne unsere.... 
+Ohne unsere Unterstützer:innen geht gar nichts...
 
-[**Novelis Inc.**](https://de.novelis.com/)  unterstütz uns seit dem Anfang unserer Reise und ermöglichte uns erforderliche Anschaffungen. Seit dem dritten Jahr steht eine Partnerschaft mit den Auszubildenen. Seit 2023 besteht eine echt Partnerschaft und wir werden in jeder Saison wesentlich finanzielle unterstützt. Vielen Dank!
+[**Novelis Inc.**](https://de.novelis.com/) unterstützt uns seit dem Anfang unserer Reise und ermöglichte uns bereits zu Anfang die erforderlichen Materialien anzuschaffen. Seit dem dritten Jahr besteht eine Partnerschaft mit den Auszubildenen und seit 2023 haben wir eine echte Partnerschaft geschlossen. Wir werden in jeder Saison wesentlich finanzielle unterstützt, was uns Planungssicherheit und perspektivische Entwicklungsschritte ermöglicht. Vielen Dank!
 
 Der Fördererein [**Pro Gesamtschule e. V.**](https://www.igs-goe.de/herzstuecke/Foerderverein-Pro-Gesamtschule.html) unterstützt uns fortlaufend mit großzügigen jährlichen Spenden und ermöglicht es uns regelmäßig, mit vielen Schüler:innen zu den Wettbewerben zu fahren. Danke!
 
