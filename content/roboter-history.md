@@ -26,6 +26,4 @@ Dieser Roboter stellt eine Besonderheit dar. Er wurde im Rahmen eines Workshops 
 Unser Roboter 2018/2019. Das Hauptaugenmerk liegt hier auf dem Arm. Dieser lässt sich ausfahren und kippen. Zusammen mit dem Einsammler, können so die" Mineralien" schnell eingesammelt und sortiert werden. Das Fahrgestell ist auf omnidirektionalen Antrieb ausgelegt.
 
 ## 17/18 FIRST Relic Recovery
-
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better
+-
