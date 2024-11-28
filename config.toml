@@ -38,7 +38,7 @@ title = "RobotIGS"
     title = "RobotIGS"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Wir sind das RobotIGS Team der Georg-Christoph-Lichtenberg-Gesamtschule Göttingen. Mit einem Team von ca. 10 Schülern der Jahrgänge 9 bis 13 und zwei Mentoren entwerfen und bauen wir wettkampffähige Roboter. Dabei bietet sich jedem Mitglied die freie Auswahl von Management oder Web-Präsenz bis zum eigentlichen Bau und der Programmierung eines Roboters. Jeder, der sich daran beteiligen möchte, ist herzlich willkommen, teilzunehmen."
+    description = "Wir sind das RobotIGS Team der Georg-Christoph-Lichtenberg-Gesamtschule Göttingen. Mit einem Team von ca. 15 Schülern der Jahrgänge 9 bis 13 und zwei Mentoren entwerfen und bauen wir wettkampffähige Roboter. Dabei bietet sich jedem Mitglied die freie Auswahl von Management oder Web-Präsenz bis zum eigentlichen Bau und der Programmierung eines Roboters. Jeder, der sich daran beteiligen möchte, ist herzlich willkommen, teilzunehmen."
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -52,4 +52,4 @@ title = "RobotIGS"
     invertSectionColors = false
     
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "RobotIGS, roboter, robot, FirstTechChallenge, First Tech Challenge, FTC, Göttingen" # some, keywords, for, seo, you, know, google, duckduckgo, and, such

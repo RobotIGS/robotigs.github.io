@@ -1,7 +1,9 @@
 ---
 # Beispiel für ExtraSeite
 title: "Roboter-History"
-weight: 80
+header_menu_title: "Roboter-History"
+navigation_menu_title: "Roboter-History"
+weight: 10
 header_menu: true
 ---
 
@@ -19,7 +21,7 @@ Auf dieser Seite kann man sich einen Überblick über alle Roboter der letzten J
 ...
 
 #### 21/22 FREIGHT FRENCY
-User Roboter für die Season Freigth Frenzy 2021/22. Dieses Modell hatte eine 3D gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten sind der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild gestützter Steuerung. 
+Unser Roboter für die Season Freigth Frenzy 2021/22. Dieses Modell hatte eine 3D-gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten sind der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild gestützter Steuerung. 
 
 #### 20/21 FIRST GAME CHANGERS
 ...
@@ -32,4 +34,4 @@ Dieser Roboter stellt eine Besonderheit dar. Er wurde im Rahmen eines Workshops 
 Unser Roboter 2018/2019. Das Hauptaugenmerk liegt hier auf dem Arm. Dieser lässt sich ausfahren und kippen. Zusammen mit dem Einsammler, können so die" Mineralien" schnell eingesammelt und sortiert werden. Das Fahrgestell ist auf omnidirektionalen Antrieb ausgelegt.
 
 #### 17/18 FIRST Relic Recovery
-
+...
