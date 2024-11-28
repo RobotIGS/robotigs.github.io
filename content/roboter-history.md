@@ -1,10 +1,6 @@
 ---
 # Beispiel für ExtraSeite
 title: "Roboter-History"
-header_menu_title: "Roboter-History"
-navigation_menu_title: "Roboter-History"
-weight: 10
-header_menu: true
 ---
 
 Auf dieser Seite kann man sich einen Überblick über alle Roboter der letzten Jahre verschaffen.
@@ -12,26 +8,25 @@ Auf dieser Seite kann man sich einen Überblick über alle Roboter der letzten J
 
 ----
 #### 24/25 INTO THE DEEP
-...
+In der aktuellen Season bauen wir einen Roboter, der mit einem Arm und einem Aufzug Bauklötze in einen Korb befördert. Des Weiteren ist ein unserer Ziele, dass sich der Roboter mit einem Haken an einer Stange aufhängen kann.
 
 #### 23/24 CENTERSTAGE
-...
+In der Season 2023/24 Centerstage haben wir unseren Fokus auf das Platzieren der sogenannten Pixel (Sechsecke aus Plastik) am Scoring-Board gelegt. Hierfür verbauten wir einen Aufzug mit einem Seilzug und einen Greifmechanismus. Zudem haben wir verschiedene Mechanismen zum Starten eines Papierfliegers getestet.
 
 #### 22/23 POWERPLANT
 ...
 
 #### 21/22 FREIGHT FRENCY
-Unser Roboter für die Season Freigth Frenzy 2021/22. Dieses Modell hatte eine 3D-gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten sind der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild gestützter Steuerung. 
+Unser Roboter für die Season 2021/22 Freigth Frenzy hatte eine 3D-gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten waren der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild-gestützter Steuerung. 
 
 #### 20/21 FIRST GAME CHANGERS
 ...
 
 #### 19/20 SKYSTONE
-Unser Modell der Season 2019/2020 trug den Namen R1G5 (Robotics IGS in "Druidenschreibweise", angelehnt an das Starwars-Thema der Challenge). R1G5 konnte Steine greifen und mit ihnen einen Turm bauen, einen Team-Marker außerhalb des Spielfelds platzieren und eine Bauplattform bewegen.
-Dieser Roboter stellt eine Besonderheit dar. Er wurde im Rahmen eines Workshops auf der IdeenExpo 2019 gebaut. Das Design ist auf einfache Konstruktion fokussiert, da die Workshopteilnehmer möglichst eigenständig den Roboter bauen sollten. Der Roboter besitzt einen Greifer, weshalb er auch den Spitznamen "Schnappi" trägt.
+Unser Modell der Season 2019/20 trug den Namen R1G5 (Robotics IGS in "Druidenschreibweise", angelehnt an das Starwars-Thema der Challenge). R1G5 konnte Steine greifen und mit ihnen einen Turm bauen, einen Team-Marker außerhalb des Spielfelds platzieren und eine Bauplattform bewegen. Dieser Roboter stellte eine Besonderheit dar, da er im Rahmen eines Workshops auf der IdeenExpo 2019 gebaut wurde. Das Design war auf eine einfache Konstruktion fokussiert, weil die Workshopteilnehmende möglichst eigenständig den Roboter bauen sollten. Zudem besitzt der Roboter einen Greifer, weshalb er auch den Spitznamen "Schnappi" trägt.
 
 #### 18/19 FIRST Rover Ruckus
-Unser Roboter 2018/2019. Das Hauptaugenmerk liegt hier auf dem Arm. Dieser lässt sich ausfahren und kippen. Zusammen mit dem Einsammler, können so die" Mineralien" schnell eingesammelt und sortiert werden. Das Fahrgestell ist auf omnidirektionalen Antrieb ausgelegt.
+Das Hauptaugenmerk in der Season 2018/19 lag auf dem Arm, der sich ausfahren und kippen ließ. Zusammen mit dem Einsammler konnten wir so die sogenannten "Mineralien" schnell einsammeln und sortieren. Unser Fahrgestell war auf einen omnidirektionalen Antrieb ausgelegt.
 
 #### 17/18 FIRST Relic Recovery
 ...

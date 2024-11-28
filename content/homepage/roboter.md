@@ -14,4 +14,4 @@ In jeder Season der Tech Challenges gibt es neue Anforderungen an den Roboter. D
 
 ----
 
-[Hier](roboter-history) geht es zur Roboter-History der letzten Jahre.
+**[Hier](roboter-history) geht es zur Roboter-History der letzten Jahre.**
