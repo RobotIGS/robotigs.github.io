@@ -11,8 +11,8 @@ Schulweg 22
 {{<icon class="fa fa-envelope">}}&nbsp;[robot.igs@igs-goettingen.de](mailto:robot.igs@igs-goettingen.de)
 
 #### Kernzeiten
-**Dienstag**    15:30-17:30 Uhr  
-**Donnerstag**  15:30-17:30 Uhr  
+**Dienstag** 15:30-17:30 Uhr  
+**Donnerstag** 15:30-17:30 Uhr  
 
 #### Unser Raum
 Unsere Werkstatt befindet sich in dem Raum **B15** im Hauptgebäude der MLK (Martin-Luther-King Schule), gegenüber der Georg-Christoph-Lichtenberg Gesamtschule.
