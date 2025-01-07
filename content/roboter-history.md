@@ -20,7 +20,7 @@ In der Season 2023/24 Centerstage haben wir unseren Fokus auf das Platzieren der
 Unser Roboter für die Season 2021/22 Freigth Frenzy hatte eine 3D-gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten waren der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild-gestützter Steuerung. 
 
 #### 20/21 Ultimate Goal
-...
+In der Season 2020/2021 konnten wir aufgrund der Schulschließungen wegen der Corona-Pandemie quasi nicht an unserem Roboter arbeiten, weshalb unser Roboter leider nur wenig konnte.
 
 #### 19/20 Skystone
 Unser Modell der Season 2019/20 trug den Namen R1G5 (Robotics IGS in "Druidenschreibweise", angelehnt an das Starwars-Thema der Challenge). R1G5 konnte Steine greifen und mit ihnen einen Turm bauen, einen Team-Marker außerhalb des Spielfelds platzieren und eine Bauplattform bewegen. Dieser Roboter stellte eine Besonderheit dar, da er im Rahmen eines Workshops auf der IdeenExpo 2019 gebaut wurde. Das Design war auf eine einfache Konstruktion fokussiert, weil die Workshopteilnehmende möglichst eigenständig den Roboter bauen sollten. Zudem besitzt der Roboter einen Greifer, weshalb er auch den Spitznamen "Schnappi" trägt.
