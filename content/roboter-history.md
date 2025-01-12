@@ -29,7 +29,7 @@ Unser Modell der Season 2019/20 trug den Namen R1G5 (Robotics IGS in "Druidensch
 Das Hauptaugenmerk in der Season 2018/19 lag auf dem Arm, der sich ausfahren und kippen ließ. Zusammen mit dem Einsammler konnten wir so die sogenannten "Mineralien" schnell einsammeln und sortieren. Unser Fahrgestell war auf einen omnidirektionalen Antrieb ausgelegt.
 
 #### 17/18 Relic Recovery
-...
+Unser Roboter für die Saison 2017/18 hatte vorne einen Greifer, mit dem er 2 Schaumstoffblöcke (Glyphs) greifen, transportieren und in einem vorher ausgewürfelten Muster in die Regale am Spielfeldrand sortieren konnte. Zudem wurde ein weit ausfahrbarer Arm mit einem kleinen Greifer gebaut, um eine Spielfigur (Relic) im Endgame auf das Ziel außerhalb des Spielfelds zu legen oder im besten Fall zu stellen.
 
 #### 16/17 Velocity Vortext
-...
+Die Schwerpunkte in der ersten Saison waren ein Einsammelautomatismus um Bälle (Particles) aufzusammeln und durch den Roboter zu befördern, so wie eine Abschussanlage aus zwei Motoren, welche die Bälle (Particles) in das Ziel (Center Vortex) schießen konnte. Für das Endgame wurde eine große Gabel gebaut, welche einen Gymnastikball auf den freidrehbaren, ca. 80cm hohen, Turm (Center Vortex) in der Mitte legen konnte.
