@@ -14,7 +14,7 @@ In der aktuellen Season bauen wir einen Roboter, der mit einem Arm und einem Auf
 In der Season 2023/24 Centerstage haben wir unseren Fokus auf das Platzieren der sogenannten Pixel (Sechsecke aus Plastik) am Scoring-Board gelegt. Hierfür verbauten wir einen Aufzug mit einem Seilzug und einen Greifmechanismus. Zudem haben wir verschiedene Mechanismen zum Starten eines Papierfliegers getestet.
 
 #### 22/23 POWERPLAY
-...
+Konzentriert haben wir uns in der Season 2022/23 hauptsächlich auf das computer vision based scoring. Dabei ging es darum so schnell wie möglich sogenannte cones auf unterschiedlich lange Stangen, die zufällig angeordnet sind, fallen zu lassen und so Punkte zu erzielen
 
 #### 21/22 Freight Frenzy
 Unser Roboter für die Season 2021/22 Freigth Frenzy hatte eine 3D-gedruckte Schaufel, mit der Fracht von A nach B gebracht werden konnte. Besonderheiten waren der extrem schmale Unterbau, die auf 60 cm hochfahrbare Schaufel und der erste Prototyp an Bild-gestützter Steuerung. 
