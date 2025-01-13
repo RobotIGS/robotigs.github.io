@@ -8,7 +8,7 @@ Auf dieser Seite kann man sich einen Überblick über alle Roboter der letzten J
 
 ----
 #### 24/25 INTO THE DEEP
-In der aktuellen Season bauen wir einen Roboter, der mit einem Arm und einem Aufzug Bauklötze in einen Korb befördert. Des Weiteren ist ein unserer Ziele, dass sich der Roboter mit einem Haken an einer Stange aufhängen kann.
+In der aktuellen Season bauen wir einen Roboter, der mit einem Arm und einem Aufzug Bauklötze in einen Korb befördert. Des Weiteren ist eines unserer Ziele, dass sich der Roboter mit einem Haken an einer Stange aufhängen kann.
 
 #### 23/24 CENTERSTAGE
 In der Season 2023/24 Centerstage haben wir unseren Fokus auf das Platzieren der sogenannten Pixel (Sechsecke aus Plastik) am Scoring-Board gelegt. Hierfür verbauten wir einen Aufzug mit einem Seilzug und einen Greifmechanismus. Zudem haben wir verschiedene Mechanismen zum Starten eines Papierfliegers getestet.
