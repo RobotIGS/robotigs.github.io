@@ -4,8 +4,6 @@ title: "Roboter-History"
 ---
 
 ---
-
-----
 #### 25/26 DECODE
 In der aktuellen Season bauen wir einen Roboter mit einem Mechanismus, der bis zu drei Bälle aufnimmt, lägert und sie dann ins Ziel schießt.
 
