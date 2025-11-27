@@ -12,5 +12,5 @@ Ein riesiges Dankeschön geht an:
 
 - [**Arineo**](https://https://arineo.com/de/)
 - [**Sparkasse Göttingen**](https://www.spk-goettingen.de/de/home.html)
-- [Ottobock](https://www.ottobock.com/de-de/startseite)
+- [**Ottobock**](https://www.ottobock.com/de-de/startseite)
 - Der Förderverein [**Pro Gesamtschule e. V.**](https://www.igs-goe.de/herzstuecke/Foerderverein-Pro-Gesamtschule.html) unterstützt uns fortlaufend mit großzügigen Spenden und ermöglicht es uns regelmäßig, mit vielen Schüler:innen zu den Wettbewerben zu fahren. Danke!
