@@ -1,5 +1,5 @@
 ---
-title: "Unsere Unterstützung"
+title: "Unsere Unterstützer"
 header_menu_title: "Sponsoren"
 navigation_menu_title: "Sponsoren"
 weight: 50
