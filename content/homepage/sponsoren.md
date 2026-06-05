@@ -10,6 +10,10 @@ Wir möchten uns ganz besonders bei unserne großzügigen Sponsoren bedanken, di
 
 Ein riesiges Dankeschön geht an:
 - [**Arineo**](https://arineo.com/de/)
+- [**Novelis**](https://novelis.com/de/)
+- [**HAWK**](https://www.hawk.de/de/)
+- [**Measurement Valley**](https://www.measurement-valley.de)
 - [**Ottobock**](https://www.ottobock.com/de-de/startseite)
 - [**Sparkasse Göttingen**](https://www.spk-goettingen.de/de/home.html)
+- [**Sartorius**](https://www.sartorius.com/en/company-de)
 - [**Pro Gesamtschule e. V.**](https://www.igs-goe.de/herzstuecke/Foerderverein-Pro-Gesamtschule.html)
